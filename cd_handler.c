@@ -1,4 +1,4 @@
-#include "m.h"
+#include "main.h"
 /**
  *_getcwd - gets the current working directory
  *Return:string containing current working directory
