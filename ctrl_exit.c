@@ -1,4 +1,4 @@
-#include "m.h"
+#include "main.h"
 
 /**
  *print_prompt - displays promot b4 user inputs
