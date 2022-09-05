@@ -72,3 +72,4 @@ simple shell easy!
 (your_terminal)$
 ```
 #### Authors
+Jusking and Benedicta
