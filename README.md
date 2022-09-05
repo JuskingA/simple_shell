@@ -23,6 +23,7 @@
 
 ### File Descriptions
 * ```AUTHORS```: include the names of the contributors to this repository.
+Jusking and Benedicta
 * ```_realloc.c```: contains a function that reallocates then allocated memory and sets all the values to 0.
 * ```_strings.c```: contains functions that helps in the manipulation os strings including strcat, strcmp, strcpy, strdup, strlen.
 * ```builtin_parser.c```: parses the builtin programs.
