@@ -1,4 +1,4 @@
-#include "m.h"
+#include "main.h"
 /**
  *get_history - fills file with user input
  *@input:user input
