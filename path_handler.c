@@ -1,4 +1,4 @@
-#include "m.h"
+#include "main.h"
 
 /**
  *get_path - gets the absolute path of a command
